@@ -59,7 +59,7 @@ var db_contatos_inicial = {
         },
         {
             "id": 9,
-            "titulo": "Como usar o site Tutoritec",
+            "titulo": "Como usar o site Ajudinha",
             "tutorial": "Nosso site é muito simples, caso você queira ter acesso a mais conteudos você terá que pagar para criar uma conta premium",
             "url": "https://www.youtube.com/embed/hS8yibiS3dE",
             "categoria": "Uso do site"
