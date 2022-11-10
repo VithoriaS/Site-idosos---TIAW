@@ -1,7 +1,7 @@
 package app;
 
 import static spark.Spark.*;
-import service.usuarioService;
+import service.UsuarioService;
 
 
 public class Aplicacao {
